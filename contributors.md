@@ -4,6 +4,6 @@
 | Omdeep | omicoded19 | IIITA | IEC2024059 | 1 |
 |:-----|--------:|---------|-------:|------:|
 | Varad Singhal | VaradSinghal | SRMIST | RA2411003011798 | 1 |
-
+| Kushagra Sahu | KushagraSahu-01|IIITA|IIT2025069|1|
 <!-- ADD ABOVE THIS-->
 <!--example |P.Diddy | KoveLids |Reyansh College| IIT2024069| 0|>
